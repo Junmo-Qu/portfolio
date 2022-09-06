@@ -14,7 +14,7 @@ Assignment: Visualizing government debt
 
 Assignment: ...
 
-Final Project
+Final Project: ...
 
 
 
