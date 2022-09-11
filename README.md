@@ -10,7 +10,7 @@ I do want to build some valuable design skills and learn some about design durin
 ## Portfolio
 Here is where all my cool work will go！
 
-[Assignment 2](/dataviz2.md)
+[Assignment 2: Visualizing Government Debt](/dataviz2.md)
 
 Assignment: ...
 
