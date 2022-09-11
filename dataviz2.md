@@ -6,7 +6,7 @@ Below is a bar chart showing the total general government debt as a percentage o
 
 
 ## Debt vs. GDP for Different Countries 
-Below is a line chart showing the Debt-to-GDP ratios for different countries from 1995 to 2019.
+Below is a line chart showing the Debt-to-GDP ratios for different countries over years.
 <div class="flourish-embed flourish-chart" data-src="visualisation/11149419"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
 
