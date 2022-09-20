@@ -12,7 +12,7 @@ Here is where all my cool work will go！
 
 [Assignment 2: Visualizing Government Debt](/dataviz2.md)
 
-Assignment: ...
+[Assignment 3 & 4: Critique by Design](/dataviz3.md)
 
 Final Project: ...
 
