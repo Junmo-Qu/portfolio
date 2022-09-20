@@ -11,8 +11,7 @@
 
 
 ## Original Data Visualization
-
-[Source Link](https://nobelprizedash.herokuapp.com](https://www.sciencedirect.com/science/article/pii/S0959378018314365#fig0005)
+[Source Link](https://www.sciencedirect.com/science/article/pii/S0959378018314365#fig0005)
 
 ![Drivers of Tropical Deforestation by Region](original dv.jpg)
 
@@ -21,6 +20,8 @@ Deforestation, the second largest source of anthropogenic greenhouse gas emissio
 ## Data Visualization Critique
 
 ## Wireframe
+![Sketch for solution](sketch.png)
+
 
 ## Solution Test
 
