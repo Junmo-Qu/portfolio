@@ -8,7 +8,7 @@
 - [Solution Test](#solution-test)
 - [Recreated Data Visualization](#recreated-data-visualization)
 - [Conclusion](#conclusion)
-- [References](#References)
+- [References](#references)
 
 
 ## Original Data Visualization
@@ -34,11 +34,11 @@ Experts, professors, and students in the field of environmental science, relevan
 ## Wireframe
 
 ### Things I Plan to Change
-- Add a meaningful title
-- Replace the stacked percentage bar chart with a regular stacked bar chart
-- Mark the unimportant drivers as gray to highlight the key ones
-- Change the position of product groups, from bottom to top by the influence
-- Add interactivity and avoid unnecessary information display
+- Add a meaningful title.
+- Replace the stacked percentage bar chart with a regular stacked bar chart.
+- Mark the unimportant drivers as gray to highlight the key ones.
+- Change the position of product groups, from bottom to top by the influence.
+- Add interactivity and avoid unnecessary information display.
 
 ### Sketch
 ![Sketch for solution](sketch.png)
@@ -89,7 +89,9 @@ Based on this feedback and insights, I came up with some design changes I think 
 <iframe src="https://public.tableau.com/views/Assignment_16636996624560/1?:showVizHome=no&:embed=true" width="98%" height="600" seamless frameborder="0" scrolling="no"></iframe>   
 
 ## Conclusion 
+The design of this final data visualization is based on the critique of the original data visualization and the summary of interviewees' feedback. It aims to enable the audience to identify large geographical differences in the drivers associated with tropical deforestation and which product groups contribute strongly to deforestation. From the chart, we can see that cattle beef is the most influential contributor, and it is particularly impactful in Brazil, Latin America, and Africa. Oilseed products and forestry products are the other two product groups that need special attention.
 
+The chart uses a familiar stacked bar chart form and highlights key information with colors. The height of the bars represents the total CO2 emissions due to deforestation in each region and the percentage labels show the share of different product groups per community group. This data visualization facilitates further analysis of major contributors‘ situation in terms of consumption, supply chain, etc. to find solutions to the environmental problem. It also enables relevant environmental knowledge to be disseminated to a wider audience.
 
 
 ## References
