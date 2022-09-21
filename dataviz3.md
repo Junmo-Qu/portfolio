@@ -46,6 +46,31 @@ Experts, professors, and students in the field of environmental science, relevan
 
 ## Solution Test
 
+### Feedbacks
+
+#### Student 1, early 20's
+- This reflects some of the most important drivers of tropical deforestation in each region.
+- Everyone can be the intended audience for this visualization.
+- I can quickly name the top three major contributors in each area, but it's hard to see the percentage of each contributor in the aggregate. But that's not the purpose of this chart, is it?
+- You could add the percentage tag, I think. It's interactive, but you can't remember so many numbers at once. Adding labels would be more intuitive.
+
+#### Student 2, mid 20's
+- I can quickly see what the chart is trying to convey, and I think this visualization is very straightforward.
+- The other in each region is a collection of unimportant drivers, am I understanding this correctly?
+- I noticed that the colors are sorted differently in each column, I think you have them by size, but I think it's more logical to have a consistent order of product types.
+- Why not mark the numbers? If it were my work, I would do it.
+- It must be percentages, absolute values do little to convey the meaning of this chart.
+
+#### Environmentalist, mid 30's
+- This is a graph that represents some important drivers of tropical deforestation in different regions.
+- I think I am the intended audience for this.
+- It looks good to me, I don't think it has any parts that need to be changed.
+- If I have to say, you can adjust the color, it may look a little better.
+
+### Reflections and Insights
+
+
+
 ## Recreated Data Visualization
 <iframe src="https://public.tableau.com/views/Assignment_16636996624560/1?:showVizHome=no&:embed=true" width="98%" height="600" seamless frameborder="0" scrolling="no"></iframe>   
 
@@ -54,12 +79,9 @@ Experts, professors, and students in the field of environmental science, relevan
 
 
 ## References
+1. [Few, Stephen. “Data Visualization Effectiveness Profile,” 2017, 11.](http://www.perceptualedge.com/articles/visual_business_intelligence/data_visualization_effectiveness_profile.pdf)
 
-
-
-
-
-
+2. [Pendrill, F., Persson, U., Godar, J., Kastner, T., Moran, D., Schmidt, S., & Wood, R. (2019). Agricultural and forestry trade drives large share of tropical deforestation emissions. Global Environmental Change, 56, 1-10. doi: 10.1016/j.gloenvcha.2019.03.002](https://www.sciencedirect.com/science/article/pii/S0959378018314365#fig0005)
 
 
 
