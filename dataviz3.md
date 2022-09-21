@@ -21,13 +21,26 @@ Here is the [Source Link](https://www.sciencedirect.com/science/article/pii/S095
 
 ![Drivers of Tropical Deforestation by Region](original dv.jpg)
 
+
 ## Data Visualization Critique
 
 ### Overall Observations
-This data visualization is very ineffective in terms of perceptibility and intuitiveness. The information isn't displayed in a manner that the human eye and brain can perceive with minimal effort and appropriate precision. Forcing people to compare the sizes and width of bars, is somewhat difficult and imprecise when the lengths of bars could have been used instead. Also, stacked percentage bar chart would be unfamiliar to  the general public than regular stacked bar chart. Classifying countries by region is a very effective way, but there are both countries and regions on the chart with no explanations. In fact, I think it will be better to make an additional visualization or some explanations ahead of this one for the share of tropical deforestation by country, which would serve as the basis for the country classification. Aesthetically, it isn’t quite pleasing to the eye, in part because too many colors are stacked to create a cluttered appearance. I think all unimportant information can be considered replaced with gray. The visualization works well in terms of usefulness, completeness, and truthfulness. The message it conveys is very meaningful to the audience of this visualization and facilitates countries looking for ways to reduce carbon emissions with purpose.
+This data visualization is very ineffective in terms of perceptibility and intuitiveness. The information isn't displayed in a manner that the human eye and brain can perceive with minimal effort and appropriate precision. Forcing people to compare the sizes and width of bars, is somewhat difficult and imprecise when the lengths of bars could have been used instead. Also, stacked percentage bar charts would be unfamiliar to the general public. Classifying countries by region is a very effective way, but there are both countries and regions on the chart with no explanations. In fact, I think it will be better to make an additional visualization or some explanations ahead of this one for the share of tropical deforestation by country, which would serve as the basis for the country classification. Aesthetically, it isn’t quite pleasing to the eye, in part because too many colors are stacked to create a cluttered appearance. I think all unimportant information can be considered replaced with gray. Too many numbers labeled is also a problem, it is sufficient to label only the top three drivers as percentages. The visualization works well in terms of usefulness, completeness, and truthfulness. The message it conveys is very meaningful to the audience of this visualization and facilitates countries looking for ways to reduce carbon emissions with purpose.
+
+### The Effectiveness of this Visualization in Reaching the Primary Audiences
+Experts, professors, and students in the field of environmental science, relevant government officials, farmers, and some environmentalists are the primary audience for this visualization. I think this visualization is not very effective for reaching that audience. The chart performs very well in terms of both truthfulness and completeness. Audiences like experts and professors want to see the most accurate numbers and the most comprehensive information, and are open to taking the time to research and draw their own conclusions, the intuitiveness of this chart is not a problem for them. However, for the general public like officials, farmers, and environmentalists, the shortcomings in perceptibility, intuitiveness, and aesthetics will have a great impact on them. They will find it hard to get what the visualization conveys the first time.
 
 
 ## Wireframe
+
+### Things I Plan to Change
+- Add a meaningful title
+- Replace the stacked percentage bar chart with a regular stacked bar chart
+- Mark the unimportant drivers as gray to highlight the key ones
+- Change the position of product groups, from bottom to top by the influence
+- Add interactivity and avoid unnecessary information display
+
+### Sketch
 ![Sketch for solution](sketch.png)
 
 
