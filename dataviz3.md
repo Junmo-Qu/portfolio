@@ -46,7 +46,7 @@ Experts, professors, and students in the field of environmental science, relevan
 
 ## Solution Test
 
-### Feedbacks
+### Feedback
 
 #### Student 1, early 20's
 - This reflects some of the most important drivers of tropical deforestation in each region.
@@ -57,6 +57,7 @@ Experts, professors, and students in the field of environmental science, relevan
 #### Student 2, mid 20's
 - I can quickly see what the chart is trying to convey, and I think this visualization is very straightforward.
 - The other in each region is a collection of unimportant drivers, am I understanding this correctly?
+- The target audience can be students, teachers, people concerned about environmental change, environmental organizations, and the United Nations.
 - I noticed that the colors are sorted differently in each column, I think you have them by size, but I think it's more logical to have a consistent order of product types.
 - Why not mark the numbers? If it were my work, I would do it.
 - It must be percentages, absolute values do little to convey the meaning of this chart.
@@ -68,7 +69,20 @@ Experts, professors, and students in the field of environmental science, relevan
 - If I have to say, you can adjust the color, it may look a little better.
 
 ### Reflections and Insights
+After looking across all interviews for any similarities and differences, I feel that my sketch is kind of a good solution. The audience can easily see what the visualization is trying to convey and can even make relatively accurate judgments about the audience of this chart. I summarized some important insights as follows.
 
+- Logic is important. As represented in the original visualization, sorting by product groups makes more sense than sorting by numerical size.
+- Interaction does not make up for intuitiveness. Labels should still be added where they are needed.
+- Simplicity is necessary. Basically, every respondent was able to name the three most important drivers the first time and would not be distracted by other less important drivers.
+- The title is important. In the absence of context, I think the title contributes greatly to the viewer's quick understanding of the visualization.
+
+Based on this feedback and insights, I came up with some design changes I think might make the most sense in my final redesign as below. 
+
+- Take stuff away and limit color. Delete variables and use gray for secondary information. Unnecessary colors and labels can pull the audience‘s attention away from the core idea.
+- Add a meaningful title. Headlines that imply or explicitly state why the visualization exists help the audience understand the idea or insight the data visualization is trying to convey.
+- Replace the stacked percentage bar chart with a regular stacked bar chart. This contributes to the increased intuitiveness and perceptibility of the data visualization and is suitable for a broader audience.
+- Keep the position of product groups, which is more logical.
+- Add interactivity, which can invite the audience to examine the information and improve the engagement of the chart.
 
 
 ## Recreated Data Visualization
