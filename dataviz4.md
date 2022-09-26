@@ -15,7 +15,9 @@ This project will focus on the impact of China's one-child policy on sex ratio a
 
 The following are the main elements that make up the structure of my story.
 
-- Introduction: A brief overview of China's fertility policy.
+- Introduction: Using the phenomenon that millions of men in China now find it difficult to get married to provoke thoughts on where the missing girls have gone. On the other hand, elaborating on the rising status of women in China, more and more women are getting married at later ages or are even unwilling to get married, which is also a reason why men are having trouble finding wives. Both reasons are inextricably linked to China's one-child policy.
+
+  - A brief overview of China's fertility policy.
 
 - Chapter 1 - Missing Girls: Visualizing the sex ratios of annual births, the differences in numbers between males and females by age, etc. to reveal the phenomena caused by the one-child policy such as baby abandonment and abortion.
 
@@ -49,7 +51,7 @@ These are only the initial designs of the visualizations, after which more visua
 ## Primary Data Source
 
 1. [China Statistical Yearbooks Compiled by National Bureau of Statistics of China.](http://www.stats.gov.cn/english/Statisticaldata/AnnualData/)
-This website contains the official annual statistical databases of China. From this datasource, this project can obtain information on the gender ratio of birth rates, the number of males and females in different age groups, the college enrollment rates of different genders, and the annual income of different genders.
+This website contains the official annual statistical databases of China. From this data source, this project can obtain information on the gender ratio of birth rates, the number of males and females in different age groups, the college enrollment rates of different genders, and the annual income of different genders.
 
 2. [.]()
 
