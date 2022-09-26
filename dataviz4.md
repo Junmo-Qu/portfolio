@@ -48,7 +48,8 @@ These are only the initial designs of the visualizations, after which more visua
 
 ## Primary Data Source
 
-
+[The One-Child Policy and Gender Equality in Education in China: Evidence from Household Data.](https://link.springer.com/article/10.1007/s10834-011-9277-9)
+The dataset from this article can provide support for studying the impact of the one-child policy on gender equality in education in China. This project will use this data source to study the difference in years of schooling between only-child boys and only-child girls, and the difference in years of schooling of only-child girls and girls from multi-child families in China.
 
 
 
