@@ -17,7 +17,7 @@ The following are the main elements that make up the structure of my story.
 
 - Introduction: A brief overview of China's fertility policy.
 
-- Chapter 1 - Missing Girls: Visualizing the sex ratios of annual births, the gender differences between males and females by age, etc. to reveal the phenomena caused by the one-child policy such as baby abandonment and abortion.
+- Chapter 1 - Missing Girls: Visualizing the sex ratios of annual births, the differences in numbers between males and females by age, etc. to reveal the phenomena caused by the one-child policy such as baby abandonment and abortion.
 
   - Visualize the gender ratios of abandoned babies each year and the adoption of abandoned girls. Tell the story of a Chinese girl who was adopted intercountry.
 
@@ -48,8 +48,22 @@ These are only the initial designs of the visualizations, after which more visua
 
 ## Primary Data Source
 
-[The One-Child Policy and Gender Equality in Education in China: Evidence from Household Data.](https://link.springer.com/article/10.1007/s10834-011-9277-9)
+1. [China Statistical Yearbooks Compiled by National Bureau of Statistics of China.](http://www.stats.gov.cn/english/Statisticaldata/AnnualData/)
+This website contains the official annual statistical databases of China. From this datasource, this project can obtain information on the gender ratio of birth rates, the number of males and females in different age groups, the college enrollment rates of different genders, and the annual income of different genders.
+
+2. [.]()
+
+
+3. [The One-Child Policy and Gender Equality in Education in China: Evidence from Household Data.](https://link.springer.com/article/10.1007/s10834-011-9277-9)
 The dataset from this article can provide support for studying the impact of the one-child policy on gender equality in education in China. This project will use this data source to study the difference in years of schooling between only-child boys and only-child girls, and the difference in years of schooling of only-child girls and girls from multi-child families in China.
+
+4. [.]()
+
+
+5. [.]()
+
+
+6. [.]()
 
 
 
