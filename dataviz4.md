@@ -89,7 +89,7 @@ The project will be completed in the following steps.
 
 - Conduct data visualization using Tableaus and Flourish.
 
-- Write the story.
+- Conduct interviews and write the story.
 
 - Build the story with Shorthand.
 
