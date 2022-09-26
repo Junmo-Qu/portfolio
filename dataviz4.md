@@ -53,7 +53,8 @@ These are only the initial designs of the visualizations, after which more visua
 1. [China Statistical Yearbooks Compiled by National Bureau of Statistics of China.](http://www.stats.gov.cn/english/Statisticaldata/AnnualData/)
 This website contains the official annual statistical databases of China. From this data source, this project can obtain information on the gender ratio of birth rates, the number of males and females in different age groups, the college enrollment rates of different genders, and the annual income of different genders.
 
-2. [.]()
+2. [Registration of Children Adopted by Families (1996-2008)](http://www.stats.gov.cn/ztjc/ztsj/hstjnj/sh2008/201208/t20120827_73543.html) and 
+[Adoption Statistics by Travel.State.Gov](https://travel.state.gov/content/travel/en/Intercountry-Adoption/adopt_ref/adoption-statistics-esri.html?wcmmode=disabled) provide data sources from aspects of abandonment and adoption for this story to further examine the gender imbalance caused by the one-child policy.
 
 
 3. [The One-Child Policy and Gender Equality in Education in China: Evidence from Household Data.](https://link.springer.com/article/10.1007/s10834-011-9277-9)
