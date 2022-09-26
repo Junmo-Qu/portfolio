@@ -60,8 +60,8 @@ This website contains the official annual statistical databases of China. From t
 3. [The One-Child Policy and Gender Equality in Education in China: Evidence from Household Data.](https://link.springer.com/article/10.1007/s10834-011-9277-9)
 The dataset from this article can provide support for studying the impact of the one-child policy on gender equality in education in China. This project will use this data source to study the difference in years of schooling between only-child boys and only-child girls, and the difference in years of schooling of only-child girls and girls from multi-child families in China.
 
-4. [.]()
-
+4. [Women and Men in Chinese Society.](https://cnlgbtdata.com/files/uploads/2020/01/%E4%B8%AD%E5%9B%BD%E7%A4%BE%E4%BC%9A%E4%B8%AD%E7%9A%84%E5%A5%B3%E4%BA%BA%E5%92%8C%E7%94%B7%E4%BA%BA2019CN-final.pdf)
+This report provides data on the gender ratio of the second and the third births, the employment situation of men and women, and the health situation of women in China. It is useful to compare the impact of different fertility policies on gender issues in China.
 
 5. [.]()
 
