@@ -14,7 +14,11 @@ Here is where all my cool work will go！
 
 [Assignment 3 & 4: Critique by Design](/dataviz3.md)
 
-[Final Project: Missing Girls and the Awakening of Female Power](/dataviz4.md)
+[Final Project - Part I: Missing Girls and the Awakening of Female Power](/dataviz4.md)
+
+FInal Projrct - Part II:
+
+Final Project - Part III: 
 
 
 
