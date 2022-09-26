@@ -2,12 +2,14 @@
 
 In 2015, China's one-child policy, which had been conducted for 35 years, came to an end, and the country has now entered the three-child era. There are many theoretical studies on the impact of the one-child policy on women, but the field of presentation of relevant data and overall narratives is still a gap. Taking the opportunity of the final project, I decided to tell the story using data visualization methods.
 
+
 ## Table of Contents for Part I
 
 - [Outline](#outline)
 - [Initial Sketches](#initial-sketches)
 - [Primary Data Source](#primary-data-source)
 - [Method and Medium](#method-and-medium)
+
 
 ## Outline
 
@@ -63,11 +65,10 @@ The dataset from this article can provide support for studying the impact of the
 4. [Women and Men in Chinese Society.](https://cnlgbtdata.com/files/uploads/2020/01/%E4%B8%AD%E5%9B%BD%E7%A4%BE%E4%BC%9A%E4%B8%AD%E7%9A%84%E5%A5%B3%E4%BA%BA%E5%92%8C%E7%94%B7%E4%BA%BA2019CN-final.pdf)
 This report provides data on the gender ratio of the second and the third births, the employment situation of men and women, and the health situation of women in China. It is useful to compare the impact of different fertility policies on gender issues in China.
 
-5. [.]()
+5. [Women in Leadership in China: Past, Present, and Future.](https://www.researchgate.net/publication/320037161_Women_in_Leadership_in_China_Past_Present_and_Future)
+The project is able to extract relevant data from this article on changes in Chinese women's leadership in different contexts (political, business, etc.) and across generations.
 
-
-6. [.]()
-
+6. [Global Gender Gap Reports.](https://www.weforum.org/reports/global-gender-gap-report-2022/) This is a collection that provides directions for studying the gender gap and the data sources under each direction. The data sources referenced in this article are also appropriate for this project.
 
 
 ## Method and Medium
@@ -98,7 +99,6 @@ The project will be completed in the following steps.
 
 ### Medium
 Excel and Python will be used for simple data cleaning and processing, Tableau and Flourish will be used for data visualization, and Shorthand will be used for overall story building. They are all powerful and easy-to-learn platforms and tools through which the planned output could be efficiently accomplished. In addition, Shorthand forms web pages that are far more interactive than slides, making it ideal for supporting storytelling with data.
-
 
 
 [Back to top](#table-of-contents-for-part-i)
