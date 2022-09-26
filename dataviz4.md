@@ -19,7 +19,7 @@ The following are the main elements that make up the structure of my story.
 
 - Chapter 1 - Missing Girls: Visualizing the sex ratios of annual births, the gender differences between males and females by age, etc. to reveal the phenomena caused by the one-child policy such as baby abandonment and abortion.
 
-  - Visualizing the sex ratios of abandoned babies each year and the adoption of abandoned girls. Tell the story of a Chinese girl who was adopted intercountry.
+  - Visualize the sex ratios of abandoned babies each year and the adoption of abandoned girls. Tell the story of a Chinese girl who was adopted intercountry.
 
 - Chapter 2 - The Awakening of Female Power: By visualizing the annual changes in female higher education enrollment rates, female educational levels, the numbers of female heads of household, female incomes, female labor force participation rates, and the numbers of female executives, etc., the project can reveal the contribution of the one-child policy to the advancement of women's rights and the overall status of women.
 
@@ -27,7 +27,7 @@ The following are the main elements that make up the structure of my story.
 
 - Chapter 3 - Prospects: The project will analyze the future situation through changes in data related to the sex ratios under the one-child, two-child, and three-child policies.
 
-- Conclusion: Extracting the ideas and summarizing the content discussed above.
+- Conclusion: Extract the ideas and summarize the content discussed above.
 
 
 ## Initial Sketches
@@ -43,15 +43,32 @@ The following are the main elements that make up the structure of my story.
 
 ## Method and Medium
 
+### Method
 
+The project will be completed in the following steps.
 
+- Define the project theme and outline.
 
+- Determine the content of the story and visualizations, as well as set up plots for the story.
 
+- Search and analyze the required data and information.
 
+- Determine the tools to be used.
 
+- Preliminary sketching based on data and the story.
 
+- Conduct data visualization using Tableaus and Flourish.
 
+- Write the story.
 
+- Build the story with Shorthand.
+
+- Check content and references.
+
+- Present and reflect.
+
+### Medium
+Excel and Python will be used for simple data cleaning and processing, Tableau and Flourish will be used for data visualization, and Shorthand will be used for overall story building. They are all powerful and easy-to-learn platforms and tools through which the planned output could be efficiently accomplished. In addition, Shorthand forms web pages that are far more interactive than slides, making it ideal for supporting storytelling with data.
 
 
 
