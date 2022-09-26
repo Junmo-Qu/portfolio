@@ -19,7 +19,7 @@ The following are the main elements that make up the structure of my story.
 
 - Chapter 1 - Missing Girls: Visualizing the sex ratios of annual births, the gender differences between males and females by age, etc. to reveal the phenomena caused by the one-child policy such as baby abandonment and abortion.
 
-  - Visualize the sex ratios of abandoned babies each year and the adoption of abandoned girls. Tell the story of a Chinese girl who was adopted intercountry.
+  - Visualize the gender ratios of abandoned babies each year and the adoption of abandoned girls. Tell the story of a Chinese girl who was adopted intercountry.
 
 - Chapter 2 - The Awakening of Female Power: By visualizing the annual changes in female higher education enrollment rates, female educational levels, the numbers of female heads of household, female incomes, female labor force participation rates, and the numbers of female executives, etc., the project can reveal the contribution of the one-child policy to the advancement of women's rights and the overall status of women.
 
@@ -31,8 +31,19 @@ The following are the main elements that make up the structure of my story.
 
 
 ## Initial Sketches
+ 
+Sketches for Chapter 1.
 
+![Missing Girls 1.1](chapter 1.1.png)
 
+![Missing Girls 1.2](chapter 1.2.png)
+
+Sketches for Chapter 2.
+
+![The Awakening of Female Power](chapter 2.jpeg)
+
+Additional Notes:
+These are only the initial designs of the visualizations, after which more visualizations such as birth rates by gender by province may be added.
 
 
 ## Primary Data Source
