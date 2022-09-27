@@ -35,14 +35,20 @@ The following are the main elements that make up the structure of my story.
 
 
 ## Initial Sketches
- 
-Sketches for Chapter 1.
+
+Sketches for Introduction - The current phenomenon of Chinese men being unable to get married.
+
+![Introduction](introduction.png)
+
+Sketches for Chapter 1 - Abnormal gender ratio at birth.
 
 ![Missing Girls 1.1](chapter 1.1.png)
 
+Sketches for Chapter 1 - Always girls.
+
 ![Missing Girls 1.2](chapter 1.2.png)
 
-Sketches for Chapter 2.
+Sketches for Chapter 2 - The all-round advancement of women's status.
 
 ![The Awakening of Female Power](chapter 2.jpeg)
 
