@@ -87,19 +87,17 @@ The project will be completed in the following steps.
 
 - Determine the content of the story and visualizations, as well as set up plots for the story.
 
-- Search and analyze the required data and information.
+- Search and analyze the required data and information. Preliminary sketching based on data and the story.
 
-- Determine the tools to be used.
+- Determine the tools to be used. Conduct data visualization using Tableaus, Flourish, and Canva.
 
-- Preliminary sketching based on data and the story.
+- Develop the story outline and relevant components visually through the use of storyboards.
 
-- Conduct data visualization using Tableaus and Flourish.
+- Conduct interviews to test the storyboard and get feedback. Modify the storyboard based on interview insights and complete the entire story build with Shorthand.
 
-- Conduct interviews and write the story.
+- Check project's content and references. Come up with great ideas for the one-minute presentation and prepare the presentation.
 
-- Build the story with Shorthand.
-
-- Check content and references.
+- Get critiques from others about the project and presentation. Optimize the project again.
 
 - Present and reflect.
 
