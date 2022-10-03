@@ -15,22 +15,22 @@
 
 ### Target Audience and Recruitment Plan
 
-## Target Audience
+#### Target Audience
 
 The target audience I hope to reach with my story meets one or more of the following criteria.
 - People who know very little about the demographic situation in mainland China. 
 - People who are interested in the basic information about China's demographic.
 - Ordinary people who are concerned with special social phenomena on a daily basis.
 
-## Recruitment Plan
+#### Recruitment Plan
 
 My approach to identifying representative interviewees is to highlight the recruitment types when recruiting. For this project, respondents have to meet three requirements: be an adult, not a mainland Chinese citizen, and have a habit of reading world news. I will recruit these people by the following methods.
 
-Face-to-face Invitation
+_Face-to-face Invitation_
 
 I will try to recruit the staff in the bookstore, cafeteria, etc. as interviewees on campus. I will confirm whether they are my recruiter type first, then explain the reason for the visit, the purpose of the interview, and a brief introduction to the project at a time that will not disturb their work. After they understand the situation, I will seek their permission and schedule the interview.
 
-Email Invitation
+_Email Invitation_
 
 I will compile an email template that politely states my purpose, a brief introduction to the assignment, and my recruitment types. Send this email to some targeted students and professors to seek their approval.
 
