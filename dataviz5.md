@@ -37,6 +37,7 @@ I will compile an email template that politely states my purpose, a brief introd
 
 
 ### Goals and Questions
+
 | Goals | Questions | 
 |---|---|
 |Test whether the reader understands the main idea of the story.|Can the reader understand what the story is trying to say?|
@@ -67,6 +68,7 @@ Audience 4: Student, mid 20's, Italian, enjoy following all kinds of interesting
 
 
 ### Findings, Insights, and Opportunities
+
 | Findings | Insights | Opportunities | 
 |---|---|---|
 | “If you want to talk about the phenomenon of men having a hard time getting married, you can talk less about the adoption part. I don't see how the two are related, but the adoption story is touching.”| It makes sense. There is no direct link between a large number of female babies being adopted and men failing to find wives. | Streamline Selah's story or just delete it and write something else. |
