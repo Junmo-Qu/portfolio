@@ -1,7 +1,7 @@
 # Final Project Wireframes and User Research
 
 ## Storyboard
-[Storyboard](https://preview.shorthand.com/UxBk2H12sCvGUj5S)
+The following has some differences from the real web version, to see the preview page please check [here.](https://preview.shorthand.com/UxBk2H12sCvGUj5S)
 
 <iframe src="https://preview.shorthand.com/UxBk2H12sCvGUj5S?:showVizHome=no&:embed=true" width="90%" height="500" seamless frameborder="0" scrolling="yes"></iframe>
 
