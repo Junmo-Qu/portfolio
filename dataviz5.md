@@ -67,17 +67,17 @@ Audience 4: Student, mid 20's, Italian, enjoy following all kinds of interesting
 | Findings | Insights | Opportunities | 
 |---|---|---|
 | “If you want to talk about the phenomenon of men having a hard time getting married, you can talk less about the adoption part. I don't see how the two are related, but the adoption story is touching.”| B | C |
-| A | B | C | 
-| A | B | C | 
-| A | B | C | 
-| A | B | C | 
-| A | B | C | 
-| A | B | C | 
-| A | B | C | 
-| A | B | C | 
-| A | B | C | 
-| A | B | C | 
-| A | B | C | 
+| "I like the picture in the adoption section, the 80% 20% one, but the colors don't match the style of your overall article." | B | C | 
+| “You could add more pictures of real people. Although I don't think the adoption story makes sense, those pictures are great.” | B | C | 
+| “Why do you tell the story of adoption? I think it makes more sense for you to talk about the ratio of males to females in abandoned babies than the ratio in adopted babies.” | B | C | 
+| "I think you have too many statistical graphs, I don't need to see data from 1970 to 2100 when I want to know some information. It's much better to tell me directly what the result is, like the 34 million at the top of the article." | B | C | 
+| “Data visualization images are not very clear.” | B | C | 
+| “There are too many charts and they appear at the same time. Promise me you won't add any more charts.” | B | C | 
+| “It says that the number of women is much less than men at the beginning of the article, and here it says that this guy dated 15 women this year, which is very contradictory.” | B | C | 
+| “The paragraph about adoption doesn't make sense, and it only mentions the US. Why can't it be that Americans like girls more so they adopt more girls?” | B | C | 
+| "I know this is not your final version, but I have a feeling that your story will be very very long, and you also have so many data visualizations. Readers will probably get tired and can't finish reading." | B | C | 
+| “I'd like to see some leading phrases, like the first sentence at the beginning, otherwise the whole story would be very flat.” | B | C | 
+
 
 ***
 
