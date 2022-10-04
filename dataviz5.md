@@ -11,7 +11,8 @@
 - [Goals and Questions](#goals-and-questions)
 - [Methods](#methods)
 - [Interview Script](#interview-script)
-- [Finds, Insights, and Opportunities](#finds-insights-and-opportunities)
+- [Findings, Insights, and Opportunities](#findings-insights-and-opportunities)
+- [Conclusion](#conclusion)
 
 ### Target Audience and Recruitment Plan
 
@@ -43,15 +44,35 @@ I will compile an email template that politely states my purpose, a brief introd
 ### Interview Script
 
 
-### Finds, Insights, and Opportunities
+
+### User Profile
+
+Audience 1: Student, early 20's, American, very interested in Chinese news because her mother is Chinese
+
+Audience 2: Student, early 30's, Indian, read the news every day
+
+Audience 3: Bookstore staff, mid 30's, American, read the news every day
+
+Audience 4: Student, mid 20's, Italian, enjoy following all kinds of interesting news and phenomenon
+
+### Findings, Insights, and Opportunities
+| Findings | Insights | Opportunities | 
+|---|---|---|
+| “If you want to talk about the phenomenon of men having a hard time getting married, you can talk less about the adoption part. I don't see how the two are related, but the adoption story is touching.”| B | C |
+| A | B | C | 
+| A | B | C | 
+| A | B | C | 
+| A | B | C | 
+| A | B | C | 
+| A | B | C | 
+| A | B | C | 
+| A | B | C | 
+| A | B | C | 
+| A | B | C | 
+| A | B | C | 
 
 
-
-
-
-
-
-
+### Conclusion
 
 
 
