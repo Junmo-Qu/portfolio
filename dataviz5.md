@@ -48,6 +48,7 @@ Conduct interviews with each selected participant for 10-15 minutes through in-p
 
 ### Interview Script
 
+Here is the [Interview Script](/Script.md).
 
 ***
 
