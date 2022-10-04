@@ -67,17 +67,17 @@ Audience 4: Student, mid 20's, Italian, enjoy following all kinds of interesting
 ### Findings, Insights, and Opportunities
 | Findings | Insights | Opportunities | 
 |---|---|---|
-| “If you want to talk about the phenomenon of men having a hard time getting married, you can talk less about the adoption part. I don't see how the two are related, but the adoption story is touching.”| B | C |
-| "I like the picture in the adoption section, the 80% 20% one, but the colors don't match the style of your overall article." | B | C | 
-| “You could add more pictures of real people. Although I don't think the adoption story makes sense, those pictures are great.” | B | C | 
-| “Why do you tell the story of adoption? I think it makes more sense for you to talk about the ratio of males to females in abandoned babies than the ratio in adopted babies.” | B | C | 
-| "I think you have too many statistical graphs, I don't need to see data from 1970 to 2100 when I want to know some information. It's much better to tell me directly what the result is, like the 34 million at the top of the article." | B | C | 
-| “Data visualization images are not very clear.” | B | C | 
-| “There are too many charts and they appear at the same time. Promise me you won't add any more charts.” | B | C | 
-| “It says that the number of women is much less than men at the beginning of the article, and here it says that this guy dated 15 women this year, which is very contradictory.” | B | C | 
-| “The paragraph about adoption doesn't make sense, and it only mentions the US. Why can't it be that Americans like girls more so they adopt more girls?” | B | C | 
-| "I know this is not your final version, but I have a feeling that your story will be very very long, and you also have so many data visualizations. Readers will probably get tired and can't finish reading." | B | C | 
-| “I'd like to see some leading phrases, like the first sentence at the beginning, otherwise the whole story would be very flat.” | B | C | 
+| “If you want to talk about the phenomenon of men having a hard time getting married, you can talk less about the adoption part. I don't see how the two are related, but the adoption story is touching.”| It makes sense. There is no direct link between a large number of female babies being adopted and men failing to find wives. | Streamline Selah's story or just delete it and write something else. |
+| "I like the picture in the adoption section, the 80% 20% one, but the colors don't match the style of your overall article." | More people may be asked to determine if this part should be adjusted. The original color scheme is intended to use blue for boys and pink for girls. | Change the color scheme of the visualization. | 
+| “You could add more pictures of real people. Although I don't think the adoption story makes sense, those pictures are great.” | A suggestion that can be adopted. But pictures of real people can easily have copyright problems and are not easy to find. | Add more pictures of real people to improve the overall performance. | 
+| “Why do you tell the story of adoption? I think it makes more sense for you to talk about the ratio of males to females in abandoned babies than the ratio in adopted babies.” | Very useful advice and inspired me to talk about the causes of the abnormal sex ratio at birth, which is the preference for boys. | Replace the data in the adoption part with that of the abandoned babies. | 
+| "I think you have too many statistical graphs, I don't need to see data from 1970 to 2100 when I want to know some information. It's much better to tell me directly what the result is, like the 34 million at the top of the article." | It's a stereotype I have, thanks to this class and these interviews that keep reminding me of it. | Reduce the number of statistical type visualizations and do some other more straightforward and simple data visualizations. | 
+| “Data visualization images are not very clear.” | This has also been discovered by myself. The current visualizations are not final versions and will be further optimized. | Looking for ways to improve image clarity. | 
+| “There are too many charts and they appear at the same time. Promise me you won't add any more charts.” | Unimportant visualizations are not only meaningless, but can also be distracting to the audience. | Reduce the number of charts. | 
+| “It says that the number of women is much less than men at the beginning of the article, and here it says that this guy dated 15 women this year, which is very contradictory.” | Very interesting and reasonable comment. But I still want to keep the story for now and will look for other ways to solve the problem. | Adjust the narrative way of the story in chapter 3. | 
+| “The paragraph about adoption doesn't make sense, and it only mentions the US. Why can't it be that Americans like girls more so they adopt more girls?” | An area that has been repeatedly mentioned and must be taken seriously and revised. | Delete or streamline this part. | 
+| "I know this is not your final version, but I have a feeling that your story will be very very long, and you also have so many data visualizations. Readers will probably get tired and can't finish reading." | Need to wait until the final version is completed, and then see the situation to make targeted adjustments. | Pay attention when writing stories. | 
+| “I'd like to see some leading phrases, like the first sentence at the beginning, otherwise the whole story would be very flat.” | Very useful tips for narrative style, using headings or highlighting phrases to highlight plots and focus. | Add visual effects at key plot points and turning points. | 
 
 
 ### Conclusion
