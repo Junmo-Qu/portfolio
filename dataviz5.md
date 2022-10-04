@@ -33,24 +33,25 @@ I will try to recruit the staff in the bookstore, cafeteria, etc. as interviewee
 _Email Invitation._
 I will compile an email template that politely states my purpose, a brief introduction to the assignment, and my recruitment types. Send this email to some targeted students and professors to seek their approval.
 
-***
 
 ### Goals and Questions
+| Goals | Questions | 
+|---|---|
+|Test whether the reader understands the main idea of the story.|Can the reader understand what the story is trying to say?|
+|Confirm the logic of the story.|Is the story logical in terms of content, sequence, narrative style, etc.?|
+|Evaluate the readability and effectiveness of the visualization.| What are users' suggestions for visualizations? Do users feel that the visualizations appear where they make sense and are helpful to understand?|
+|Prioritize what to adjust.|What problems are repeatedly mentioned?|
 
-
-***
 
 ### Methods
 
 Conduct interviews with each selected participant for 10-15 minutes through in-person or online meetings. Take notes and record screens during the interviews, organize and summarize the findings after the interviews, and think about areas where visualization can be improved.
 
-***
 
 ### Interview Script
 
 Here is the [Interview Script](/Script.md).
 
-***
 
 ### User Profile
 
@@ -62,7 +63,6 @@ Audience 3: Bookstore staff, mid 30's, American, read the news every day
 
 Audience 4: Student, mid 20's, Italian, enjoy following all kinds of interesting news and phenomenon
 
-***
 
 ### Findings, Insights, and Opportunities
 | Findings | Insights | Opportunities | 
@@ -79,8 +79,6 @@ Audience 4: Student, mid 20's, Italian, enjoy following all kinds of interesting
 | "I know this is not your final version, but I have a feeling that your story will be very very long, and you also have so many data visualizations. Readers will probably get tired and can't finish reading." | B | C | 
 | “I'd like to see some leading phrases, like the first sentence at the beginning, otherwise the whole story would be very flat.” | B | C | 
 
-
-***
 
 ### Conclusion
 The main problem is focused on the logic of the story narrative, especially the adoption story part in chapter 1. Three of the four respondents indicated that they did not see a cause-effect relationship before and after, as if this small story was an outsider. One respondent expressed confusion about the story in chapter 3. To solve these problems, I am going to make adjustments to the two stories‘ structures. I will streamline the adoption story into a small paragraph and consider other narrative ways to tell the story in chapter 3. 
