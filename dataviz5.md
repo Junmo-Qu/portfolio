@@ -3,7 +3,7 @@
 ## Storyboard
 [Storyboard](https://preview.shorthand.com/UxBk2H12sCvGUj5S)
 
-<iframe src="https://preview.shorthand.com/UxBk2H12sCvGUj5S?:showVizHome=no&:embed=true" width="90%" height="500" seamless frameborder="0" scrolling="no"></iframe>
+<iframe src="https://preview.shorthand.com/UxBk2H12sCvGUj5S?:showVizHome=no&:embed=true" width="90%" seamless frameborder="0" scrolling="no"></iframe>
 
 ## User Research and Interviews
 
