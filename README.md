@@ -18,7 +18,7 @@ Here is where all my cool work will go！
 
 [FInal Projrct - Part II: Final Project Wireframes and User Research](/dataviz5.md)
 
-Final Project - Part III: 
+[Final Project - Part III: Final project](/dataviz6.md)
 
 
 
