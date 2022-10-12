@@ -90,8 +90,8 @@ The main problem is focused on the logic of the story narrative, especially the 
 Another area that needs to be adjusted is the number and form of the visualizations. Two respondents said there were too many visualizations during the story, and one respondent expressed dissatisfaction that the visualizations were all high-level summary statistics. I had planned to add some more statistical types of visualizations, but now the plan changed to do some streamlining. I will think about how to make some of the data visualizations simple and prominent. Overall, the user research and interviews provided a tremendous boost to my project.
 
 
-[Back to top](#table-of-contents)
+[Go back to Part I: Final Project Overview](/dataviz4.md)
 
-[Go back to portfolio](/README.md)
+[Go back to Portfolio](/README.md)
 
-
+[Back to Top](#table-of-contents)
