@@ -3,7 +3,7 @@
 In 2015, China's one-child policy, which had been conducted for 35 years, came to an end, and the country has now entered the three-child era. There are many theoretical studies on the impact of the one-child policy on women, but the field of presentation of relevant data and overall narratives is still a gap. Taking the opportunity of the final project, I decided to tell the story using data visualization methods.
 
 
-## Table of Contents for Part I
+## Table of Contents 
 
 - [Outline](#outline)
 - [Initial Sketches](#initial-sketches)
@@ -105,6 +105,6 @@ The project will be completed in the following steps.
 Excel and Python will be used for simple data cleaning and processing, Tableau and Flourish will be used for data visualization, and Shorthand will be used for overall story building. They are all powerful and easy-to-learn platforms and tools through which the planned output could be efficiently accomplished. In addition, Shorthand forms web pages that are far more interactive than slides, making it ideal for supporting storytelling with data.
 
 
-[Back to top](#table-of-contents-for-part-i)
+[Back to top](#table-of-contents)
 
 [Go back to portfolio](/README.md)
