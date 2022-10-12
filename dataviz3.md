@@ -101,6 +101,6 @@ The chart uses a familiar stacked bar chart form and highlights key information 
 
 
 
-[Back to top](#table-of-contents)
+[Back to Top](#table-of-contents)
 
-[Go back to portfolio](/README.md)
+[Go back to Portfolio](/README.md)
