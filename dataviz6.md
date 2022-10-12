@@ -8,7 +8,9 @@
 - [Takeaways and Reflections](#takeaways-and-reflections)
 
 ## Final Data Story
+End Product: [Where is My Wife?](https://carnegiemellon.shorthandstories.com/where-is-my-wife/index.html)
 
+The story starts with the current situation where a huge number of men in China are having difficulty getting married, analyzes the reasons for this phenomenon, the far-reaching effects of too many men, and the unexpected result of China's one-child policy: the awakening of female power. The project aims to raise awareness of gender issues and call for action for gender equality.
 
 ## Intended Audience
 
