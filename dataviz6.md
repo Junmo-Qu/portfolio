@@ -13,7 +13,7 @@ End Product: [Where is My Wife?](https://carnegiemellon.shorthandstories.com/whe
 The story starts with the current situation where a huge number of men in China are having difficulty getting married, analyzes the reasons for this phenomenon, the far-reaching effects of too many men, and the unexpected result of China's one-child policy: the awakening of female power. The project aims to raise awareness of gender issues and call for action for gender equality.
 
 ## Intended Audience
-
+After the user interviews were completed, I made adjustments to the target audience for the story and accordingly adjusted the overall story structure. Eventually, the target audience for this story was identified as the following three categories. The first category is Chinese people who are concerned about the social situation they are in. The second category is anyone who is concerned about social phenomena in Asia. They may be businessmen who want to invest or explore Asian markets, or they may be scholars who are studying specific topics. The third category is feminists or human rights activists, working to raise awareness of equality.
 
 ## Work Summary
 
