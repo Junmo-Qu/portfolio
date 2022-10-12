@@ -105,6 +105,6 @@ The project will be completed in the following steps.
 Excel and Python will be used for simple data cleaning and processing, Tableau and Flourish will be used for data visualization, and Shorthand will be used for overall story building. They are all powerful and easy-to-learn platforms and tools through which the planned output could be efficiently accomplished. In addition, Shorthand forms web pages that are far more interactive than slides, making it ideal for supporting storytelling with data.
 
 
-[Back to top](#table-of-contents)
+[Back to Top](#table-of-contents)
 
-[Go back to portfolio](/README.md)
+[Go back to Portfolio](/README.md)
