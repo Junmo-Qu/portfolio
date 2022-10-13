@@ -28,7 +28,7 @@ Thirdly, the story must be logical and continuous. Readers are very sensitive an
 
 
 ### Design Decisions
-
+Taking the observations into account, I changed my overall narrative ways and structure of the story. To begin with, I abandoned the series structure and replaced it with a logical structure of phenomenon, cause, effect, outcome, and action. Except for the effect and action parts, the other three parts are illustrated with data visualizations to enhance user perception and improve the credibility of the story. In addition, I added headings to each part so that the audience can know exactly what the next part is about when reading. Considering picture copyright and portrait rights, I avoided using images of real people. Regarding the comment about reducing the number of visualizations mentioned in Part II, I weighed it and did not take it. The phenomenon needs a large number of data to explain it, and visualizations can help readers quickly understand it. In combination with the later changed story structure, there is no problem of appearing cluttered.
 
 
 ## Takeaways and Reflections
