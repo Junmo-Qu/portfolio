@@ -16,7 +16,7 @@ Here is where all my cool work will go！
 
 [Final Project - Part I: Final Project Overview](/dataviz4.md)
 
-[Final Projrct - Part II: Final Project Wireframes and User Research](/dataviz5.md)
+[Final Project - Part II: Final Project Wireframes and User Research](/dataviz5.md)
 
 [Final Project - Part III: Final Project Summary](/dataviz6.md)
 
