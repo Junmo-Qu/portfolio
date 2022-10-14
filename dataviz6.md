@@ -3,6 +3,7 @@
 ## Table of Contents
 
 - [Final Data Story](#final-data-story)
+- [Why This Topic](#why-this-topic)
 - [Audience and Adjustments](#audience-and-adjustments)
 - [Work Summary](#work-summary)
 
@@ -11,6 +12,9 @@
 End Product: [Where is My Wife?](https://carnegiemellon.shorthandstories.com/where-is-my-wife/index.html)
 
 The story starts with the current situation where a huge number of men in China are having difficulty getting married, analyzes the reasons for this phenomenon, the far-reaching effects of too many men, and the unexpected result of China's one-child policy: the awakening of female power. The project aims to raise awareness of gender issues and call for action for gender equality.
+
+## Why This Topic
+The preference for boys is a phenomenon that exists not only in China but throughout Asia. Countries like India and South Korea also have a very serious boy preference problem. The common feature I find in these countries is the low status of women. This preference is actually not beneficial to men. As we can see, many men are now unable to get married. Too many men in turn bring other negative effects and put the whole society in a vicious circle. That's why we need to pay attention to this topic and take action to promote gender equality.
 
 ## Audience and Adjustments
 After the user interviews were completed, I made adjustments to the intended audience for the story and accordingly adjusted the overall story structure. Eventually, the intended audience for this story was identified as the following three categories. The first category is Chinese people who are concerned about the social situation they are in. The second category is anyone who is concerned about social phenomena in Asia. They may be businessmen who want to invest or explore Asian markets, or they may be scholars who are studying specific topics. The third category is feminists or human rights activists, working to raise awareness of equality.
